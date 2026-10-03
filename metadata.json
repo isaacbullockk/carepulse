@@ -1,0 +1,6 @@
+{
+  "name": "CarePulse - Medical Freelance & Shift Dispatch",
+  "description": "On-demand healthcare marketplace and dispatch system featuring automated planning for parents of disabled children, emergency late call-off replacement engines, PGB/SVB budget management, BIG register verification, and multi-bank instant payroll.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
